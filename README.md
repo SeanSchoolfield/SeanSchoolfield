@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeanSchoolfield
 - 👀 I’m interested in ... I'm interested in the natural sciences as well as computer science.
-- 🌱 I’m currently learning ... Python, Java, C++, C, 
+- 🌱 I’m currently learning ... Python, Java, C++, C, React
 - 💞️ I’m looking to collaborate on ... Maritime Operations Monitoring Dashboard
 - 📫 How to reach me ...sean.schoolfield@gmail.com (personal email)
 <!---
